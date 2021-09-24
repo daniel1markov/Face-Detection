@@ -1,5 +1,2 @@
-# Face-Detection
-Face Detection in a Screen Recorder ( Live ).
-
-
-Face Detector in a screen recorder using threads for faster reaction.
+# Face Recognition
+Face Recognition in a Screen Recorder ( Live ) using threads for faster recognition.
